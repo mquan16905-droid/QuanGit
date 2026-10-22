@@ -1,2 +1,2 @@
 # QuanGit
-TẠO CV CHO TÔI
+TẠO CV CỦA QUÂN
